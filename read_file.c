@@ -1,3 +1,4 @@
+//ファイル読み込み関数
 void read_file(){
     FILE *fp;
 
